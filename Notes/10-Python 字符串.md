@@ -239,4 +239,4 @@ u'Hello World !'
     string.title()  返回"标题化"的 string,就是说所有单词都是以大写开始，其余字母均为小写(见 istitle())
     string.translate(str, del="")   根据 str 给出的表(包含 256 个字符)转换 string 的字符,要过滤掉的字符放到 del 参数中
     string.upper()  转换 string 中的小写字母为大写
-    string.zfill(width) 返回长度为 width 的字符串，原字符串 string 右对齐，前面填充0
+    string.zfill(width) 7返回长度为 width 的字符串，原字符串 string 右对齐，前面填充0
